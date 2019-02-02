@@ -1,0 +1,29 @@
+
+<html>
+<html>
+<head>
+<title>www.Rukab.com</title>
+   
+
+ </head>
+ 
+ <body bgcolor="brown">
+ <center><font color="purple" face="calibri" size="12">
+ <h2>Rukab Ventures<h1>
+  </font>   </center>
+ <marquee><font color="blue" face="cambria" size="10">
+<h3>Rukab World of wears</h4>
+	</marquee>
+	
+	<img src="myfam.jpg" height="160" align="right"/><img src="mygrl.jpg" height="160" align="right">
+	<a href="abeydd.html" title="click to view our product">OUR PRODUCT</a>
+
+	
+	
+	
+ </body>
+
+
+
+</html>
+
